@@ -12,7 +12,7 @@
 ---
     
 - 🎓 Pre-final year student at VIT
-- 🛠 Proficient with Python, Java, Kali Linux and Cyber security Basics
+- 🛠  Cyber security enthusiast, actively honing my skills in areas such as penetration testing
 - 🌱 Currently learning more about the Ethical Hacking
 - 👯 Looking to collaborate on projects
 - 💬 Besides programming, I also play Badminton, crochet and gym
@@ -36,4 +36,4 @@
   </tr>
 </table>
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harshpailkar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pravekrd)](https://git.io/streak-stats)
