@@ -36,4 +36,4 @@
   </tr>
 </table>
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pravekrd)](https://git.io/streak-stats)
+
