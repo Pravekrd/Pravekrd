@@ -15,7 +15,7 @@
 - 🛠  Cyber security enthusiast, actively honing my skills in areas such as penetration testing
 - 🌱 Currently learning more about the Ethical Hacking
 - 👯 Looking to collaborate on projects
-- 💬 Besides programming, I also play Badminton, crochet and gym
+- 💬 Besides programming, I also play Badminton, read books and gym
 - 📫 Shoot me a mail at `pravekrd@gmail.com`
 - 🤖 Am I testing my code? Or is it testing me...
 
