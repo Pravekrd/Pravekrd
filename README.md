@@ -11,7 +11,7 @@
 
 ---
     
-- 🎓 Pre-final year student at VIT
+- 🎓 Final year student at VIT
 - 🛠  Cyber security enthusiast, actively honing my skills in areas such as penetration testing
 - 🌱 Currently learning more about the Ethical Hacking
 - 👯 Looking to collaborate on projects
